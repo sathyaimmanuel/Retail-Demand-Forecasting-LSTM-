@@ -115,14 +115,9 @@ See `requirements.txt` for a full list. Key libraries include:
 
 ---
 
-## 🙌 Credits
+## Project :
 
 Developed by: **Sathya Immanuel Raj B**  
 Email: sathyaimmanuelraj@gmail.com  
 LinkedIn: [Sathya Immanuel Raj B](https://www.linkedin.com/in/sathya-immanuel-raj-b-43530b303)
 
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
